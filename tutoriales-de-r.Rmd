@@ -4,20 +4,10 @@ output:
   flexdashboard::flex_dashboard:
     orientation: rows
     vertical_layout: scroll
-    fig_mobile: TRUE
     theme: journal
     favicon: escudo_economia.svg
-    social: ["twitter", "facebook"]
-    navbar:
-      - {title: "Inicio", href: "https://tutoriales-de-r.github.io/", align: right}
-      - {title: "Funciones", href: "https://tutoriales-de-r.github.io/funciones", align: right}
-      - {title: "Matrices", href: "https://tutoriales-de-r.github.io/matrices", align: right}
-      - {title: "Derivadas", href: "https://tutoriales-de-r.github.io/derivadas", align: right}
-      - {title: "Gráficas", href: "https://tutoriales-de-r.github.io/graficas", align: right}
-      - {title: "Mapas", href: "https://tutoriales-de-r.github.io/mapas", align: right}
-      - {title: "Directorio", href: "https://tutoriales-de-r.github.io/directorio", align: right}
+    social: [ "twitter", "facebook"]
 ---
-
 
 ```{r setup, include=FALSE}
 library(flexdashboard)
@@ -59,7 +49,7 @@ Row
 
 <center style="font-size: 150%">
 
-[`Funciones`](https://tutoriales-de-r.github.io/funciones) [`Matrices`](https://tutoriales-de-r.github.io/matrices) [`Derivadas`](https://tutoriales-de-r.github.io/derivadas) [`Gráficas`](https://tutoriales-de-r.github.io/graficas) [`Mapas`](https://tutoriales-de-r.github.io/mapas) [`Directorio`](https://tutoriales-de-r.github.io/directorio)
+[`Inicio`](https://tutoriales-de-r.github.io) [`Funciones`](https://tutoriales-de-r.github.io/funciones) [`Matrices`](https://tutoriales-de-r.github.io/matrices) [`Derivadas`](https://tutoriales-de-r.github.io/derivadas) [`Gráficas`](https://tutoriales-de-r.github.io/graficas) [`Mapas`](https://tutoriales-de-r.github.io/mapas) [`Directorio`](https://tutoriales-de-r.github.io/directorio)
 
 </center>
 
