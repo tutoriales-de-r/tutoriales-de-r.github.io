@@ -1,0 +1,243 @@
+Row
+-----------------------------------------------------------------------
+
+###
+
+<center style="color: black;font-size: 150%">
+
+[Graficando los casos de Covid19 en R](https://alejo-meztli.github.io/Proyecto-Final-Taller-Cov19)
+
+</center>
+
+__________________________________________________________________________ 
+
+
+<table width="100%" border="0">
+<tr>  
+
+<td><center><span style="padding-right:20px;"><a href="https://alejo-meztli.github.io/Proyecto-Final-Taller-Cov19"><img src="https://cghv94.github.io/tt1.jpg" width="200" height="315"/></a></span></center></td>
+
+<td><center><iframe width="560" height="315" src="https://www.youtube.com/embed/9CI3C_lT-lU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center></td>
+
+</tr>
+</table>
+
+__________________________________________________________________________ 
+
+
+Row
+-----------------------------------------------------------------------
+
+###
+
+<center style="color: black;font-size: 150%">
+
+[Creando matrices en R](https://alejugos.github.io/proyectofinal)
+
+</center>
+
+__________________________________________________________________________ 
+
+
+<table width="100%" border="0">
+<tr>  
+
+<td><center><span style="padding-right:20px;"><a href="https://alejugos.github.io/proyectofinal"><img src="https://cghv94.github.io/tt2.jpg" width="200" height="315"/></a></span></center></td>
+
+<td><center><iframe width="560" height="315" src="https://www.youtube.com/embed/qpdYDO-C8Bo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center></td>
+
+</tr>
+</table>
+
+__________________________________________________________________________ 
+
+
+Row
+-----------------------------------------------------------------------
+
+###
+
+<center style="color: black;font-size: 150%">
+
+[Ubicacion de los centros LUNAS en la ciudad de México](https://cescag.github.io/Proyecto-Final.html)
+
+</center>
+
+__________________________________________________________________________ 
+
+
+<table width="100%" border="0">
+<tr>  
+
+<td><center><span style="padding-right:20px;"><a href="https://cescag.github.io/Proyecto-Final.html"><img src="https://cghv94.github.io/tt3.jpg" width="200" height="315"/></a></span></center></td>
+
+<td><center><iframe width="560" height="315" src="https://www.youtube.com/embed/GJFhJ0ifEoc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center></td>
+
+</tr>
+</table>
+
+__________________________________________________________________________ 
+
+
+Row
+-----------------------------------------------------------------------
+
+###
+
+<center style="color: black;font-size: 150%">
+
+[Zonas con mayor índice de pobreza en la República Mexicana](https://orlando423.github.io/Proyecto-Final-Mate-y-taller-lll-FINAL.html)
+
+</center>
+
+__________________________________________________________________________ 
+
+
+<table width="100%" border="0">
+<tr>  
+
+<td><center><span style="padding-right:20px;"><a href="https://orlando423.github.io/Proyecto-Final-Mate-y-taller-lll-FINAL.html"><img src="https://cghv94.github.io/tt4.jpg" width="200" height="315"/></a></span></center></td>
+
+<td><center><iframe width="560" height="315" src="https://www.youtube.com/embed/ZEYX7ppZmnU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center></td>
+
+</tr>
+</table>
+
+__________________________________________________________________________ 
+
+
+Row
+-----------------------------------------------------------------------
+
+###
+
+<center style="color: black;font-size: 150%">
+
+[Mapa con registros de fabricas a nivel nacional](https://kathiaoviedo.github.io/PROYECTO.html)
+
+</center>
+
+__________________________________________________________________________ 
+
+
+<table width="100%" border="0">
+<tr>  
+
+<td><center><span style="padding-right:20px;"><a href="https://kathiaoviedo.github.io/PROYECTO.html"><img src="https://cghv94.github.io/tt5.jpg" width="200" height="315"/></a></span></center></td>
+
+<td><center><iframe width="560" height="315" src="https://www.youtube.com/embed/ix98UvAQHUs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center></td>
+
+</tr>
+</table>
+
+__________________________________________________________________________ 
+
+
+Row
+-----------------------------------------------------------------------
+
+###
+
+<center style="color: black;font-size: 150%">
+
+[Gráficas en RStudio](https://mitzypazarin.github.io/Mitzy-Pazarin.github.io/ProyectoFinal)
+
+</center>
+
+__________________________________________________________________________ 
+
+
+<table width="100%" border="0">
+<tr>  
+
+<td><center><span style="padding-right:20px;"><a href="https://mitzypazarin.github.io/Mitzy-Pazarin.github.io/ProyectoFinal"><img src="https://cghv94.github.io/tt6.jpg" width="200" height="315"/></a></span></center></td>
+
+<td><center><iframe width="560" height="315" src="https://www.youtube.com/embed/eg7MEfmJF-U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center></td>
+
+</tr>
+</table>
+
+__________________________________________________________________________ 
+
+
+Row
+-----------------------------------------------------------------------
+
+###
+
+<center style="color: black;font-size: 150%">
+
+[Cómo Crear Matrices y Arreglos en R](https://hsaldanastavoli.github.io/proyectofinal.taller3/TALLER3)
+
+</center>
+
+__________________________________________________________________________ 
+
+
+<table width="100%" border="0">
+<tr>  
+
+<td><center><span style="padding-right:20px;"><a href="https://hsaldanastavoli.github.io/proyectofinal.taller3/TALLER3"><img src="https://cghv94.github.io/tt7.jpg" width="200" height="315"/></a></span></center></td>
+
+<td><center><iframe width="560" height="315" src="https://www.youtube.com/embed/ezdvGWtOOIc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center></td>
+
+</tr>
+</table>
+
+__________________________________________________________________________ 
+
+
+Row
+-----------------------------------------------------------------------
+
+###
+
+<center style="color: black;font-size: 150%">
+
+[Estadísticas de COVID](https://jecaos.github.io/ProyectoFinal%20(1))
+
+</center>
+
+__________________________________________________________________________ 
+
+
+<table width="100%" border="0">
+<tr>  
+
+<td><center><span style="padding-right:20px;"><a href="https://jecaos.github.io/ProyectoFinal%20(1)"><img src="https://cghv94.github.io/tt9.jpg" width="200" height="315"/></a></span></center></td>
+
+<td><center><iframe width="560" height="315" src="https://www.youtube.com/embed/4YKuSZYQhmU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center></td>
+
+</tr>
+</table>
+
+__________________________________________________________________________ 
+
+
+Row
+-----------------------------------------------------------------------
+
+###
+
+<center style="color: black;font-size: 150%">
+
+[Primeros Conjuntos](https://valenciaam.github.io/Primeros-Conjuntos%20Trabajo%20FInal.html)
+
+</center>
+
+__________________________________________________________________________ 
+
+
+<table width="100%" border="0">
+<tr>  
+
+<td><center><span style="padding-right:20px;"><a href="https://valenciaam.github.io/Primeros-Conjuntos%20Trabajo%20FInal.html"><img src="https://cghv94.github.io/tt8.jpg" width="200" height="315"/></a></span></center></td>
+
+<td><center><iframe width="560" height="315" src="https://www.youtube.com/embed/8MBmfg_npb8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center></td>
+
+</tr>
+</table>
+
+__________________________________________________________________________ 
+
+
