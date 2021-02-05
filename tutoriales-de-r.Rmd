@@ -180,33 +180,6 @@ Row
 
 <center style="color: black;font-size: 150%">
 
-[Zonas con mayor índice de pobreza en la República Mexicana](https://mauriciotarea.github.io/FinalMate.html)
-
-</center>
-
-__________________________________________________________________________ 
-
-
-<table width="100%" border="0">
-<tr>  
-
-<td><center><span style="padding-right:20px;"><a href="https://mauriciotarea.github.io/FinalMate.html"><img src="https://cghv94.github.io/t13.jpg" width="200" height="315"/></a></span></center></td>
-
-<td><center><iframe width="560" height="315" src="https://www.youtube.com/embed/ZEYX7ppZmnU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center></td>
-
-</tr>
-</table>
-
-__________________________________________________________________________ 
-
-
-Row
------------------------------------------------------------------------
-
-###
-
-<center style="color: black;font-size: 150%">
-
 [Funciones y operaciones con funciones](https://perlaannpj.github.io/funciones.html)
 
 </center>
@@ -450,7 +423,7 @@ Row
 
 <center style="color: black;font-size: 150%">
 
-[Cómo ordenar y mostrar los datos, utilizando las graficas de R](https://uwuthorny1.github.io/Ete-seech.html)
+[¿Cómo ordenar y mostrar los datos, utilizando las graficas de R?](https://uwuthorny1.github.io/Ete-seech.html)
 
 </center>
 
@@ -615,7 +588,7 @@ Row
 
 <center style="color: black;font-size: 150%">
 
-[Cómo Crear Matrices y Arreglos en R](https://hsaldanastavoli.github.io/proyectofinal.taller3/TALLER3)
+[¿Cómo Crear Matrices y Arreglos en R?](https://hsaldanastavoli.github.io/proyectofinal.taller3/TALLER3)
 
 </center>
 
@@ -628,33 +601,6 @@ __________________________________________________________________________
 <td><center><span style="padding-right:20px;"><a href="https://hsaldanastavoli.github.io/proyectofinal.taller3/TALLER3"><img src="https://cghv94.github.io/tt7.jpg" width="200" height="315"/></a></span></center></td>
 
 <td><center><iframe width="560" height="315" src="https://www.youtube.com/embed/ezdvGWtOOIc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center></td>
-
-</tr>
-</table>
-
-__________________________________________________________________________ 
-
-
-Row
------------------------------------------------------------------------
-
-###
-
-<center style="color: black;font-size: 150%">
-
-[Estadísticas de COVID](https://jecaos.github.io/ProyectoFinal%20(1))
-
-</center>
-
-__________________________________________________________________________ 
-
-
-<table width="100%" border="0">
-<tr>  
-
-<td><center><span style="padding-right:20px;"><a href="https://jecaos.github.io/ProyectoFinal%20(1)"><img src="https://cghv94.github.io/tt9.jpg" width="200" height="315"/></a></span></center></td>
-
-<td><center><iframe width="560" height="315" src="https://www.youtube.com/embed/4YKuSZYQhmU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center></td>
 
 </tr>
 </table>
